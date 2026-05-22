@@ -1,6 +1,6 @@
 ## Interface: 120005
 ## Title: Inventory Exporter
 ## Author: Pimon
-## Version: 1.0
+## Version: 1.1
 ## Notes: Exporta inventario y banco
 InventoryExporter.lua
